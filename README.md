@@ -13,6 +13,8 @@ Dual-listener: OpenAI (`/v1/chat/completions`) and Anthropic (`/v1/messages`). K
 
 > **AI coding assistants:** [AI_INTEGRATION.md](AI_INTEGRATION.md)
 
+Issues and the contribution process: [CONTRIBUTING.md](CONTRIBUTING.md). Security reports: [SECURITY.md](SECURITY.md).
+
 ```python
 import os
 from openai import OpenAI
