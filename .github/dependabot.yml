@@ -1,0 +1,12 @@
+# Scorecard Dependency-Update-Tool. Public-repo Dependabot PRs are wiped on the
+# next subtree force-push — apply dependency bumps in kimssApi/kimss_quickstart/.
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
+  - package-ecosystem: pip
+    directory: /
+    schedule:
+      interval: weekly
