@@ -4,6 +4,7 @@
 [![Python](https://img.shields.io/pypi/pyversions/kimss.svg?color=purple)](https://pypi.org/project/kimss/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-indigo.svg)](LICENSE)
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/kimssai/kimss-python-quickstart/badge)](https://scorecard.dev/viewer/?uri=github.com/kimssai/kimss-python-quickstart)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/14215/badge)](https://www.bestpractices.dev/projects/14215)
 
 **Track, govern, and secure autonomous agents with exactly 1 line of code. Zero data-plane refactoring required.**
 
