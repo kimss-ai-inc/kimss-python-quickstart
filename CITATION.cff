@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "Kimss Python Quickstart — AI Gateway Integration Tutorial"
+message: "If you use this quickstart in your research or documentation, please cite it as:"
+type: software
+authors:
+  - name: "Kimss AI"
+    website: "https://kimss.ai"
+repository-code: "https://github.com/kimssai/kimss-python-quickstart"
+url: "https://github.com/kimssai/kimss-python-quickstart"
+license: MIT
+keywords:
+  - ai-gateway
+  - llm-security
+  - openai
+  - anthropic
+  - python
+  - agent-governance

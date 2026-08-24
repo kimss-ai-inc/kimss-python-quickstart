@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security vulnerability
+    url: https://github.com/kimssai/kimss-python-quickstart/blob/main/SECURITY.md
+    about: Please report security issues privately per our security policy
+  - name: Kimss product support
+    url: https://kimss.ai
+    about: Questions about your Kimss account, billing, or dashboard
