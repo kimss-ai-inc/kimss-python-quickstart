@@ -1,6 +1,6 @@
 # Security Policy
 
-This repository is the public 5-minute Kimss Gateway tutorial ([kimssai/kimss-python-quickstart](https://github.com/kimssai/kimss-python-quickstart)). The editable source is `kimss_quickstart/` in the Kimss API monorepo; this GitHub repo is a force-push mirror.
+This repository is the public 5-minute Kimss Gateway tutorial ([kimss-ai-inc/kimss-python-quickstart](https://github.com/kimss-ai-inc/kimss-python-quickstart)). The editable source is `kimss_quickstart/` in the Kimss API monorepo; this GitHub repo is a force-push mirror.
 
 ## Reporting a vulnerability
 

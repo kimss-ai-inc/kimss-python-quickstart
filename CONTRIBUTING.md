@@ -1,10 +1,10 @@
 # Contributing
 
-[kimssai/kimss-python-quickstart](https://github.com/kimssai/kimss-python-quickstart) is a **force-push mirror** of `kimss_quickstart/` in the Kimss API monorepo. Direct PRs to public `main` are overwritten on the next mirror.
+[kimss-ai-inc/kimss-python-quickstart](https://github.com/kimss-ai-inc/kimss-python-quickstart) is a **force-push mirror** of `kimss_quickstart/` in the Kimss API monorepo. Direct PRs to public `main` are overwritten on the next mirror.
 
 ## How to report issues
 
-Use [GitHub Issues](https://github.com/kimssai/kimss-python-quickstart/issues) on this repository. English is fine. Include the example script, Python version, and the error.
+Use [GitHub Issues](https://github.com/kimss-ai-inc/kimss-python-quickstart/issues) on this repository. English is fine. Include the example script, Python version, and the error.
 
 Security reports: see [SECURITY.md](SECURITY.md). Do not file public issues for vulnerabilities.
 

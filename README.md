@@ -3,8 +3,8 @@
 [![PyPI](https://img.shields.io/pypi/v/kimss.svg?color=indigo)](https://pypi.org/project/kimss/)
 [![Python](https://img.shields.io/pypi/pyversions/kimss.svg?color=purple)](https://pypi.org/project/kimss/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-indigo.svg)](LICENSE)
-[![CI](https://github.com/kimssai/kimss-python-quickstart/actions/workflows/ci.yml/badge.svg)](https://github.com/kimssai/kimss-python-quickstart/actions/workflows/ci.yml)
-[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/kimssai/kimss-python-quickstart/badge)](https://scorecard.dev/viewer/?uri=github.com/kimssai/kimss-python-quickstart)
+[![CI](https://github.com/kimss-ai-inc/kimss-python-quickstart/actions/workflows/ci.yml/badge.svg)](https://github.com/kimss-ai-inc/kimss-python-quickstart/actions/workflows/ci.yml)
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/kimss-ai-inc/kimss-python-quickstart/badge)](https://scorecard.dev/viewer/?uri=github.com/kimss-ai-inc/kimss-python-quickstart)
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/14215/badge)](https://www.bestpractices.dev/projects/14215)
 
 **Track, govern, and secure autonomous agents with exactly 1 line of code. Zero data-plane refactoring required.**
@@ -47,7 +47,7 @@ Your application keeps using the native OpenAI SDK. No model migration. No appli
 Clone and run a **local gateway simulator** (no Kimss signup, no provider key, no network beyond localhost):
 
 ```bash
-git clone https://github.com/kimssai/kimss-python-quickstart.git
+git clone https://github.com/kimss-ai-inc/kimss-python-quickstart.git
 cd kimss-python-quickstart
 pip install -r requirements.txt
 python demo_local_gateway.py
@@ -117,7 +117,7 @@ python example_02_openai_override.py
 ### 3. Route Traffic (zero refactoring)
 
 ```bash
-git clone https://github.com/kimssai/kimss-python-quickstart.git
+git clone https://github.com/kimss-ai-inc/kimss-python-quickstart.git
 cd kimss-python-quickstart
 pip install -r requirements.txt
 cp .env.example .env   # KIMSS_WORKSPACE_KEY / KIMSS_API_KEY, KIMSS_AGENT_ID, KIMSS_MODEL
@@ -162,7 +162,7 @@ resp = client.chat.completions.create(
 
 ## Related
 
-- SDK: [kimssai/kimss-python-sdk](https://github.com/kimssai/kimss-python-sdk) · Control-plane spec: [kimssai/kimss-control-plane](https://github.com/kimssai/kimss-control-plane) · [kimss.ai](https://kimss.ai)
+- SDK: [kimss-ai-inc/kimss-python-sdk](https://github.com/kimss-ai-inc/kimss-python-sdk) · Control-plane spec: [kimss-ai-inc/kimss-control-plane](https://github.com/kimss-ai-inc/kimss-control-plane) · [kimss.ai](https://kimss.ai)
 - Architecture: [Zero-Trust AI](https://kimss.ai/zero-trust-ai-architecture)
 - AI coding assistants: [AI_INTEGRATION.md](AI_INTEGRATION.md)
 - Contributing: [CONTRIBUTING.md](CONTRIBUTING.md) · Security: [SECURITY.md](SECURITY.md)

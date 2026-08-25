@@ -1,4 +1,4 @@
-# Compile CI — restored onto kimssai/kimss-python-quickstart after each subtree
+# Compile CI — restored onto kimss-ai-inc/kimss-python-quickstart after each subtree
 # force-push (deploy keys cannot create .github/workflows).
 # OpenSSF Best Practices (passing) wants a documented, invocable test suite.
 name: CI

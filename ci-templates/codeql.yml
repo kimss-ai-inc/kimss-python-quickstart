@@ -1,4 +1,4 @@
-# CodeQL — restored onto kimssai/kimss-python-quickstart after each subtree
+# CodeQL — restored onto kimss-ai-inc/kimss-python-quickstart after each subtree
 # force-push (deploy keys cannot create .github/workflows).
 # Scorecard SAST looks for github/codeql-action/analyze, not upload-sarif.
 name: CodeQL
