@@ -162,7 +162,7 @@ resp = client.chat.completions.create(
 
 ## Related
 
-- SDK: [kimssai/kimss-python-sdk](https://github.com/kimssai/kimss-python-sdk) · [kimss.ai](https://kimss.ai)
+- SDK: [kimssai/kimss-python-sdk](https://github.com/kimssai/kimss-python-sdk) · Control-plane spec: [kimssai/kimss-control-plane](https://github.com/kimssai/kimss-control-plane) · [kimss.ai](https://kimss.ai)
 - Architecture: [Zero-Trust AI](https://kimss.ai/zero-trust-ai-architecture)
 - AI coding assistants: [AI_INTEGRATION.md](AI_INTEGRATION.md)
 - Contributing: [CONTRIBUTING.md](CONTRIBUTING.md) · Security: [SECURITY.md](SECURITY.md)
