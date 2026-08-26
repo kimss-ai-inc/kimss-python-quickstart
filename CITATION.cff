@@ -5,8 +5,8 @@ type: software
 authors:
   - name: "Kimss AI"
     website: "https://kimss.ai"
-repository-code: "https://github.com/kimss-ai-inc/kimss-python-quickstart"
-url: "https://github.com/kimss-ai-inc/kimss-python-quickstart"
+repository-code: "https://github.com/kimss-ai/kimss-python-quickstart"
+url: "https://github.com/kimss-ai/kimss-python-quickstart"
 license: MIT
 keywords:
   - ai-gateway

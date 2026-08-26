@@ -37,5 +37,5 @@
   <rect x="440" y="450" width="400" height="64" rx="12" fill="#23284a" stroke="#4b556f" stroke-width="2"/>
   <text x="640" y="490" text-anchor="middle" fill="#eef0fa" font-family="Segoe UI, system-ui, sans-serif" font-size="22" font-weight="600">OpenAI / Anthropic</text>
 
-  <text x="640" y="570" text-anchor="middle" fill="#6b7280" font-family="Segoe UI, system-ui, sans-serif" font-size="16">github.com/kimss-ai-inc/kimss-python-quickstart</text>
+  <text x="640" y="570" text-anchor="middle" fill="#6b7280" font-family="Segoe UI, system-ui, sans-serif" font-size="16">github.com/kimss-ai/kimss-python-quickstart</text>
 </svg>
