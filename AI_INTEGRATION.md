@@ -1,5 +1,9 @@
 # AI Integration — Kimss Gateway (Agent-to-Agent)
 
+> **Canonical public A2A contract:**  
+> https://raw.githubusercontent.com/kimss-ai/kimss-control-plane/main/AI_INTEGRATION.md  
+> ([kimss-ai/kimss-control-plane](https://github.com/kimss-ai/kimss-control-plane))
+
 1. Never use `KimssClient` for chat/completions/messages.
 2. Keep native `openai` or `anthropic` SDK.
 3. OpenAI → `https://api.kimss.ai/v1`. Anthropic → `https://api.kimss.ai`.
